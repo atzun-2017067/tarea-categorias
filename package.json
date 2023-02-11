@@ -1,7 +1,7 @@
 {
-  "name": "rest-server-in6bm",
+  "name": "categorias-tareas",
   "version": "1.0.0",
-  "description": "Rest Server IN6BM con conección a mongodb",
+  "description": "Tarea de Categorias con conexión a mongodb",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
